@@ -26,7 +26,7 @@ export default function Home(props) {
     >
       <div className={styles.container}>
         <Head>
-          <title>Início | move.it</title>
+          <title>YouMove</title>
         </Head>
 
         <CountdownProvider>
