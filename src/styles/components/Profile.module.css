@@ -1,16 +1,21 @@
 .profileContainer {
   display: flex;
-  align-items: center;
+  justify-content: flex-start;
 }
 
 .profileContainer > img {
   width: 5.5rem;
   height: 5.5rem;
-  border-radius: 50%;
+  border-radius: 15px;
+  box-shadow: 0 0 60px rgba(0, 0, 0, 0.05);
 }
 
 .profileContainer div {
-  margin-left: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  margin-left: 0.75rem;
 }
 
 .profileContainer div strong {
@@ -25,5 +30,5 @@
 }
 
 .profileContainer div p img {
-  margin-right: 0.5rem;
+  margin-left: 0.5rem;
 }

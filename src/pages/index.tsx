@@ -29,12 +29,11 @@ export default function Home(props) {
           <title>Início | move.it</title>
         </Head>
 
-        <ExperienceBar />
-
         <CountdownProvider>
           <section>
             <div>
               <Profile />
+              <ExperienceBar />
               <CompletedChallenges />
               <Countdown />
             </div>
