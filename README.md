@@ -40,13 +40,7 @@
 * Classificação por nível.
 
 ## Tecnologias
-<img src="https://img.shields.io/static/v1?label=&message=html5&color=black&style=for-the-badge&logo=html5&logoColor=E34F26&link=https://leftgithub.com"/>
-<img src="https://img.shields.io/static/v1?label=&message=css3&color=black&style=for-the-badge&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/static/v1?label=&message=javascript&color=black&style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/static/v1?label=&message=typescript&color=black&style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/static/v1?label=&message=nodejs&color=black&style=for-the-badge&logo=node.js&logoColor=339933"/>
-<img src="https://img.shields.io/static/v1?label=&message=reactjs&color=black&style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/static/v1?label=&message=nextjs&color=black&style=for-the-badge&logo=next.js&logoColor=339933"/>
+<img src="https://img.shields.io/static/v1?label=&message=html5&color=black&style=for-the-badge&logo=html5&logoColor=E34F26&link=https://leftgithub.com"/><img src="https://img.shields.io/static/v1?label=&message=css3&color=black&style=for-the-badge&logo=css3&logoColor=1572B6"/><img src="https://img.shields.io/static/v1?label=&message=javascript&color=black&style=for-the-badge&logo=javascript&logoColor=F7DF1E"/><img src="https://img.shields.io/static/v1?label=&message=typescript&color=black&style=for-the-badge&logo=typescript&logoColor=3178C6"/><img src="https://img.shields.io/static/v1?label=&message=nodejs&color=black&style=for-the-badge&logo=node.js&logoColor=339933"/><img src="https://img.shields.io/static/v1?label=&message=reactjs&color=black&style=for-the-badge&logo=react&logoColor=61DAFB"/><img src="https://img.shields.io/static/v1?label=&message=nextjs&color=black&style=for-the-badge&logo=next.js&logoColor=339933"/>
 
 ## Obtendo o projeto
 
