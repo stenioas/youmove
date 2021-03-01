@@ -5,10 +5,12 @@
 </div>
 
 <p  align="center">
-	<a  href="#sparkles-funcionalidades">Funcionalidades</a> •
-	<a  href="#zap-tecnologias">Tecnologias</a> •
-	<a  href="#obtendo-o-projeto">Obtendo o projeto</a> •
-	<a  href="#unlock-licensa">Licensa</a>
+	<a  href="#features">Funcionalidades</a> •
+	<a  href="#technologies">Tecnologias</a> •
+	<a  href="#get-project">Obtendo o projeto</a> •
+	<a  href="#contributing">Contribuindo</a> •
+	<a  href="#author">Autor</a> •
+	<a  href="#license">Licensa</a>
 </p>
 
 <hr  style="height: 1px">
@@ -23,14 +25,20 @@
 <p  align="center">🚧 YouMove 🚀 Em construção... 🚧</p>
 <p  align="center">Conheça o app <a  href="https://youmove.vercel.app">aqui</a>.</p>
 
+<h6 id="features">
+
 ## :sparkles: Funcionalidades
 * Timer de 25 minutos com notificação visual e auditiva,
 * Vários desafios/exercícios que podem serem realizados durante os intervalos,
 * Contador de desafios concluídos,
 * Classificação por nível.
 
+<h6 id="technologies">
+
 ## :zap: Tecnologias
-<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img  src="https://img.shields.io/static/v1?label=&message=html5&color=black&style=for-the-badge&logo=html5&logoColor=E34F26&link=https://leftgithub.com"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img  src="https://img.shields.io/static/v1?label=&message=css3&color=black&style=for-the-badge&logo=css3&logoColor=1572B6"/></a> <a href="https://www.javascript.com/"><img  src="https://img.shields.io/static/v1?label=&message=javascript&color=black&style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a> <a href="https://www.typescriptlang.org/"><img  src="https://img.shields.io/static/v1?label=&message=typescript&color=black&style=for-the-badge&logo=typescript&logoColor=3178C6"/></a> <a href="https://nodejs.org/en/"><img  src="https://img.shields.io/static/v1?label=&message=nodejs&color=black&style=for-the-badge&logo=node.js&logoColor=339933"/></a> <a href="https://reactjs.org/"><img  src="https://img.shields.io/static/v1?label=&message=reactjs&color=black&style=for-the-badge&logo=react&logoColor=61DAFB"/></a> <a href="https://nextjs.org/"><img  src="https://img.shields.io/static/v1?label=&message=nextjs&color=black&style=for-the-badge&logo=next.js&logoColor=339933"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"><img  src="https://img.shields.io/static/v1?label=&message=html5&color=0D1017&style=for-the-badge&logo=html5&logoColor=E34F26&link=https://leftgithub.com"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img  src="https://img.shields.io/static/v1?label=&message=css3&color=0D1017&style=for-the-badge&logo=css3&logoColor=1572B6"/></a> <a href="https://www.javascript.com/"><img  src="https://img.shields.io/static/v1?label=&message=javascript&color=0D1017&style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a> <a href="https://www.typescriptlang.org/"><img  src="https://img.shields.io/static/v1?label=&message=typescript&color=0D1017&style=for-the-badge&logo=typescript&logoColor=3178C6"/></a> <a href="https://nodejs.org/en/"><img  src="https://img.shields.io/static/v1?label=&message=nodejs&color=0D1017&style=for-the-badge&logo=node.js&logoColor=339933"/></a> <a href="https://reactjs.org/"><img  src="https://img.shields.io/static/v1?label=&message=reactjs&color=0D1017&style=for-the-badge&logo=react&logoColor=61DAFB"/></a> <a href="https://nextjs.org/"><img  src="https://img.shields.io/static/v1?label=&message=nextjs&color=0D1017&style=for-the-badge&logo=next.js&logoColor=339933"/></a>
+
+<h6 id="get-project">
 
 ## :mag: Obtendo o projeto
 
@@ -55,13 +63,18 @@ $ yarn dev
 # Acesse pelo navegador
 http://localhost:3000
 ```
+
+<h6 id="contributing">
+
 ## :handshake: Contributing
-Esse projeto foi desenvolvido no Next Level Week 4, da [**Rocketseat**](https://rocketseat.com.br), com propósito de estudo das tecnologias utilizadas no mesmo.
+Esse projeto foi desenvolvido no Next Level Week 4, evento realizado pela [**Rocketseat**](https://rocketseat.com.br), com propósito de estudo das tecnologias utilizadas no mesmo.
 
 Sinta-se a vontade para:
 * :bug: Reportar bugs,
 * :inbox_tray: Enviar PRs para ajudar a resolver os bugs ou adicionar funcionalidades,
 * :star: Todos os tipos de contribuições são muito bem-vindos e apreciados!
+
+<h6 id="author">
 
 ## 👨‍💻 Autor
 Stenio Almeida.
@@ -71,6 +84,8 @@ Stenio Almeida.
 ## :purple_heart: Obrigado!
 Obrigado por doar um pouco do seu tempo para conhecer o projeto!
 Agradecimento especial ao meu primo, Leo Martins, sempre acreditando no meu potencial! :heart:
+
+<h6 id="license">
 
 ## :unlock: Licensa
 O projeto utiliza a licensa <a  href="https://github.com/stenioas/youmove/blob/master/LICENSE">MIT</a>, aproveite, use e modifique como quiser!
