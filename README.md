@@ -14,14 +14,10 @@
 <hr  style="height: 1px">
 
 <p align="center">
-	<div style="margin: 0 10px;">
-		<img src="https://github.com/stenioas/youmove/blob/master/public/youmove-start.png?raw=true" alt="Start image" width="400px" />
-		<img src="https://github.com/stenioas/youmove/blob/master/public/youmove-cycle.png?raw=true" alt="Cycle image" width="400px" /><br/>
-	</div>
-	<div style="margin: 0 10px;">
-		<img src="https://github.com/stenioas/youmove/blob/master/public/youmove-end-cycle.png?raw=true" alt="End cycle image" width="400px" />
-		<img src="https://github.com/stenioas/youmove/blob/master/public/youmove-levelup.png?raw=true" alt="LevelUp image" width="400px" /><br/>
-	</div>
+	<img src="https://github.com/stenioas/youmove/blob/master/public/youmove-start.png?raw=true" alt="Start image" width="400px" />
+	<img src="https://github.com/stenioas/youmove/blob/master/public/youmove-cycle.png?raw=true" alt="Cycle image" width="400px" /><br/>
+	<img src="https://github.com/stenioas/youmove/blob/master/public/youmove-end-cycle.png?raw=true" alt="End cycle image" width="400px" />
+	<img src="https://github.com/stenioas/youmove/blob/master/public/youmove-levelup.png?raw=true" alt="LevelUp image" width="400px" /><br/>
 </p>
 
 <p  align="center">🚧 YouMove 🚀 Em construção... 🚧</p>
