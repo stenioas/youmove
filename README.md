@@ -66,7 +66,7 @@ http://localhost:3000
 
 <h6 id="contributing">
 
-## :handshake: Contributing
+## :handshake: Contribuindo
 Esse projeto foi desenvolvido no Next Level Week 4, evento realizado pela [**Rocketseat**](https://rocketseat.com.br), com propósito de estudo das tecnologias utilizadas no mesmo.
 
 Sinta-se a vontade para:
