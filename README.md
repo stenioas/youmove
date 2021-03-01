@@ -28,9 +28,9 @@
 <h6 id="features">
 
 ## :sparkles: Funcionalidades
-* Timer de 25 minutos com notificação visual e auditiva,
-* Vários desafios/exercícios que podem serem realizados durante os intervalos,
-* Contador de desafios concluídos,
+* Timer de 25 minutos com notificação visual e auditiva.
+* Vários desafios/exercícios para serem realizados durante os intervalos.
+* Contador de desafios concluídos.
 * Classificação por nível.
 
 <h6 id="technologies">
@@ -70,8 +70,8 @@ http://localhost:3000
 Esse projeto foi desenvolvido no Next Level Week 4, evento realizado pela [**Rocketseat**](https://rocketseat.com.br), com propósito de estudo das tecnologias utilizadas no mesmo.
 
 Sinta-se a vontade para:
-* :bug: Reportar bugs,
-* :inbox_tray: Enviar PRs para ajudar a resolver os bugs ou adicionar funcionalidades,
+* :bug: Reportar bugs.
+* :inbox_tray: Enviar PRs para ajudar a resolver os bugs ou adicionar funcionalidades.
 * :star: Todos os tipos de contribuições são muito bem-vindos e apreciados!
 
 <h6 id="author">
@@ -82,7 +82,7 @@ Stenio Almeida.
  [![Linkedin Badge](https://img.shields.io/badge/-Stenio_Almeida-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steniosilveira/)](https://www.linkedin.com/in/steniosilveira/) [![Gmail Badge](https://img.shields.io/badge/-stenioas@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:stenioas@gmail.com)](mailto:stenioas@gmail.com) [![Github Badge](https://img.shields.io/badge/-stenioas-181717?style=for-the-badge&logo=Github&logoColor=white&link=mailto:stenioas@gmail.com)](https://github.com/stenioas)
 
 ## :purple_heart: Obrigado!
-Obrigado por doar um pouco do seu tempo para conhecer o projeto!
+Obrigado por doar um pouco do seu tempo para conhecer o projeto!<br />
 Agradecimento especial ao meu primo, Leo Martins, sempre acreditando no meu potencial! :heart:
 
 <h6 id="license">
